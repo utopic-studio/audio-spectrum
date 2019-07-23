@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6359e7d841e24f145a95482c2c34908f, type: 3}
+  m_Name: JGlobalVariables
+  m_EditorClassIdentifier: 
+  docs_url: https://docs.google.com/document/d/1ZuQFeHEYiPIxjDqI5bOMAC0NgCe3a65wtwRNSffu0c0/edit?usp=sharing
